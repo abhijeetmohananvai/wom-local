@@ -1,0 +1,51 @@
+[
+    {
+        "ID": "1",
+        "title": "Incident 1",
+        "inkstory": "incidents/docker-storage-driver.json",
+        "scenario": "Hello..."
+    },
+    {
+        "ID": "2",
+        "title": "Incident 2",
+        "inkstory": "incidents/tatasky-story.json",
+        "scenario": "Congratularions, TataSky is now one of our clients..."
+    },
+    {
+        "ID": "3",
+        "title": "Incident 3",
+        "inkstory": "incidents/nfs-storage-story.json",
+        "scenario": "You've received an alert on fire-infra saying the PV is filling up fast..."
+    },
+    {
+        "ID": "4",
+        "title": "Incident 4",
+        "inkstory": "incidents/docker-storage-driver.json",
+        "scenario": "You were deploying our k8s cluster and setting up our application but there's a docker error that popped up..."
+    },
+    {
+        "ID": "5",
+        "title": "Incident 5",
+        "inkstory": "incidents/redis-story.json",
+        "scenario": "You've received an alert that your Redis server is killed..."
+    },
+    {
+        "ID": "6",
+        "title": "Incident 6",
+        "inkstory": "incidents/call-data-story.json",
+        "scenario": "Request for call data..."
+    },
+    {
+        "ID": "7",
+        "title": "Incident 7",
+        "inkstory": "incidents/total-calls-story.json",
+        "scenario": "Find out the total calls..."
+    },
+    {
+        "ID": "8",
+        "title": "Incident 8",
+        "inkstory": "incidents/pre-req-story.json",
+        "scenario": "Pre-requisite-values have been changed..."
+    }
+]
+
